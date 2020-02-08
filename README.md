@@ -1,3 +1,3 @@
 hello
 apa kabar
-sehattt
+sehat
